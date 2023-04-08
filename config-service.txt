@@ -20,3 +20,4 @@ Weekly commit number 9
 Weekly commit number 10
 Commit for week 1, commit number 1
 Commit for week 1, commit number 2
+Commit for week 1, commit number 3
