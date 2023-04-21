@@ -25,3 +25,4 @@ Commit for week 2, commit number 1
 Commit for week 2, commit number 2
 Commit for week 2, commit number 3
 Commit for week 3, commit number 1
+Commit for week 3, commit number 2
