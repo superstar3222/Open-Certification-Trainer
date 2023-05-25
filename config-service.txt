@@ -36,3 +36,4 @@ Commit for week 6, commit number 2
 Commit for week 6, commit number 3
 Commit for week 7, commit number 1
 Commit for week 7, commit number 2
+Commit for week 8, commit number 1
